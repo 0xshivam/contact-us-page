@@ -1,0 +1,27 @@
+.navigation {
+    padding: 20px 8px;
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+}
+
+.navigation ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    list-style-type: none;
+    font-weight: 550;
+    padding: 20px;
+    margin-top: 25px;
+}
+
+.navigation ul li {
+    padding: 35px;
+}
+.navigation h2{
+   padding: 28px 8px;
+    font-weight:800;
+    font-size:40px;
+
+} 
